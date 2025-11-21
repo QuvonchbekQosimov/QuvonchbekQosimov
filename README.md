@@ -1,7 +1,7 @@
 # 🌊 **Quvonchbek Qosimov**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&fontSize=65&fontColor=00B0FF&text=Quvonchbek%20Qosimov&theme=cobalt" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&fontSize=65&fontColor=FF0000&text=Quvonchbek%20Qosimov&theme=cobalt" />
 
 </div>
 
